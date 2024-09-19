@@ -1,0 +1,23 @@
+<style>
+
+        *{ text-align: center;}
+
+        .huhh { color: red;}
+     
+        .box { 
+            margin: px;
+            width: 500px;
+            height: 20px;
+            padding: 20px;
+            background-color: rgba(255, 255, 0, 0.23);
+        }
+
+        
+        
+        body{
+           
+            font-family: Arial;
+            padding: 2em;
+        }
+
+    </style>
