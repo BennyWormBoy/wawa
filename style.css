@@ -1,8 +1,7 @@
 
 
-
 .all{*{ text-align: center;
- }}
+}}
 
  .a1{ color: red;
      font-family: Arial;
@@ -39,10 +38,13 @@
 body{ 
     margin:auto;
     font-size: 18px;
-    font-family: ;
     padding: 2em;
     }
   
+.kaboom{
+     font-size: 24px; 
+}
+
 .oooop{
      font-size: ;
 }
