@@ -1,23 +1,51 @@
-<style>
 
-        *{ text-align: center;}
 
-        .huhh { color: red;}
+
+.all{*{ text-align: center;
+ }}
+
+ .a1{ color: red;
+     font-family: Arial;
+       }
+
+
+
      
-        .box { 
-            margin: px;
-            width: 500px;
-            height: 20px;
-            padding: 20px;
-            background-color: rgba(255, 255, 0, 0.23);
-        }
-
-        
-        
-        body{
+.box { 
+     font-family: Arial;    
+     width: 500px;
+     height: min-content;
+     padding: 20px;
+     background-color: rgba(255, 255, 0, 0.23);
            
-            font-family: Arial;
-            padding: 2em;
+    }
+
+.lauren {font-size: 32px;
+          font-family: Arial;
         }
 
-    </style>
+.tpf {font-size: 23px;
+     font-family: Arial;
+     }
+       
+.jjj {font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     }
+
+.woo {font-size: 24px;
+      font-family: Arial, Helvetica, sans-serif;
+     }
+
+body{ 
+    margin:auto;
+    font-size: 18px;
+    font-family: ;
+    padding: 2em;
+    }
+  
+.oooop{
+     font-size: ;
+}
+
+        
+      
